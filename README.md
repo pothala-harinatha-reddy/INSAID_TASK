@@ -25,12 +25,17 @@ Train Model: Train a logistic regression model on the training data.
 **Code Structure:**
 
 Fraud.csv: Contains transaction data (features and target variable isFraud).
+
 solutions.ipynb: Jupyter notebook containing the main code.
+
 Data Source: The dataset can be found here.
+
 Data Dictionary: The data dictionary of the dataset can be found here.
 
 **Libraries Used:**
 
 pandas
+
 scikit-learn
+
 NumPy
